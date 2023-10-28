@@ -36,7 +36,3 @@ The primary objective is to configure devices outside a predefined blue area in 
 
 ## Tools & Resources
 Packet Tracer: A network simulation tool used for visualization and testing.
-
-## Contribution
-If you wish to contribute to this project or have any suggestions, feel free to open an issue or send a pull request.
-
