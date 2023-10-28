@@ -4,7 +4,9 @@
 
 This project involves configuring a network topology to ensure seamless connectivity across devices. The final goal is to access a website (http://netlab.kau) from multiple PCs and receive the same welcome page.
 
-
+## Contribution
+Name: Bander Saeed ALsolami
+ID:1935181
 
 ## Overview
 The primary objective is to configure devices outside a predefined blue area in the network topology. This setup should ensure all PCs can access the specified website successfully.
@@ -36,3 +38,4 @@ The primary objective is to configure devices outside a predefined blue area in 
 
 ## Tools & Resources
 Packet Tracer: A network simulation tool used for visualization and testing.
+
