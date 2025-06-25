@@ -1,4 +1,4 @@
-# Network-Evaluation_Phase1
+# Network Design Project
 
 ![image](https://github.com/bndrlslmy/Network-Evaluation_Phase1/assets/91160602/d9d6b44b-5aa9-4f67-89f0-1c2822faaa05)
 
@@ -7,7 +7,7 @@ This project involves configuring a network topology to ensure seamless connecti
 ## Contribution
 Name: Bander Saeed ALsolami
 
-ID:1935181
+
 
 ## Overview
 The primary objective is to configure devices outside a predefined blue area in the network topology. This setup should ensure all PCs can access the specified website successfully.
